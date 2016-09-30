@@ -1,0 +1,28 @@
+.bio {
+align:center;
+}
+
+p {
+text-align: center;
+font-family: "Poor Richard";
+}
+
+h1{
+text-align: center;
+font-size: 150%; 
+text-decoration: underline;
+background-color:  #C8A2C8;
+font-family: freestyle script
+}
+
+
+
+a{
+text-align: center;
+
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
