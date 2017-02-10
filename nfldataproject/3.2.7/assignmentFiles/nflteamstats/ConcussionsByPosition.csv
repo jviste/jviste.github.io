@@ -1,0 +1,16 @@
+Concussions By Position,,# of Concussions Per Year (2012-2015),,,
+Position,Type of Position,2012,2013,2014,2015
+Offense,Wide Receiver,29,20,15,24
+Offense,Offensive Tackle,8,8,11,15
+Offense,Running Back,18,15,11,11
+Offense,Tight End,19,16,9,17
+Offense,Guard,15,9,6,10
+Offense,Center,1,4,3,9
+Offense,Quarterback,7,6,2,12
+Defense,Cornerback,26,23,24,41
+Defense,Safety,19,20,18,17
+Defense,Linebacker,13,15,16,24
+Defense,Defensive End,7,11,4,10
+Defense,Defensive Tackle,6,4,3,7
+Offense,Offense Totals,97,78,57,98
+Defense,Defense Totals,71,73,65,99
